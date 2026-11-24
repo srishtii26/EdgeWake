@@ -1,0 +1,7 @@
+PySide6
+numpy
+sounddevice
+scipy
+librosa
+scikit-learn
+vosk
